@@ -1,0 +1,18 @@
+{
+  "name": "max-node-js-complete-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/rrgomide/max-node-js-complete-guide.git",
+  "author": "Raphael Gomide <raphael.gomide@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start-01": "nodemon 01-request-response-example.js"
+  },
+  "dependencies": {
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.6"
+  }
+}
