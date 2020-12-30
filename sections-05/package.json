@@ -5,7 +5,8 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "nodemon app.js"
+    "routes": "nodemon 02-routes.js",
+    "assignment": "nodemon 03-assignment.js"
   },
   "devDependencies": {
     "nodemon": "2.0.6"
